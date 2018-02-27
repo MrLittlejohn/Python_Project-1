@@ -11,6 +11,6 @@ Go to Python and download python 3, it will give you the minimal required tools 
 ## Testing
 Testing was optional, I chose not to test, so don't go looking for it.
 
-##Functions.
+## Functions.
 All functions were to be made with certain stipulations, these are not the best, most efficient ways to write these functionalities.
 In fact, they are all hidden away in some library somewhere, so I reccommend using them first.
